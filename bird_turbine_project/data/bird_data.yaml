@@ -1,0 +1,6 @@
+# Example YOLO data YAML (edit the paths to your dataset)
+path: ./data
+train: images/train
+val: images/val
+nc: 1
+names: [bird]
